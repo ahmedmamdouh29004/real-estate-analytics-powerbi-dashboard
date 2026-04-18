@@ -5,10 +5,10 @@
 ---
 ## Dashboard Preview (Key Pages)
 
-![Landing Page](assets/landing_page.png)
-![Sales Overview](assets/sales_overview.png)
-![Client Analytics](assets/client_analytics.png)
-![Property Overview](assets/property_overview.png)
+![Landing Page](assets/landing_page.jpeg)
+![Sales Overview](assets/sales_overview.jpeg)
+![Client Analytics](assets/client_analytics.jpeg)
+![Property Overview](assets/property_overview.jpeg)
 
 > 📌 Preview shows key dashboard pages. Full detailed walkthrough available below.
 
