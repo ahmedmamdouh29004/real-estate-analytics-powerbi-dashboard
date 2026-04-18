@@ -1,5 +1,7 @@
 # 🏢 Real Estate Performance & Client Engagement Dashboard
 
+🚀 Live Project | Power BI Dashboard | Business Intelligence Case Study
+
 > An end-to-end **Power BI** analytics project analyzing real estate operations across sales performance, visitor behavior, agent productivity, client segmentation, and property demand across multiple dimensions.
 
 ---
