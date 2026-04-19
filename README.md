@@ -5,6 +5,15 @@
 > An end-to-end **Power BI** analytics project analyzing real estate operations across sales performance, visitor behavior, agent productivity, client segmentation, and property demand across multiple dimensions.
 
 ---
+
+## 🚀 Live Dashboard
+
+👉 [View Interactive Power BI Report](https://shorturl.at/Kw2oI)
+
+> Click above to explore the full interactive dashboard experience.
+
+---
+
 ## Dashboard Preview (Key Pages)
 
 ![Landing Page](assets/landing_page.jpeg)
